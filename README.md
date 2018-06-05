@@ -17,9 +17,11 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-# http://10.51.130.43:8686/?id=321#/goods
+# http://localhost:8686/?id=321#/goods
 
 # 打包后的配置文件访问
  node prod.server.js
+
+# http://localhost:9000/?id=123#/goods
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
